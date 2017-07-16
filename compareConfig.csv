@@ -1,4 +1,4 @@
 File1,File2,logfilename
-file1.txt,file2.txt,logfile1.txt
-file1.txt,file2.txt,logfile2.txt
-file1.txt,file2.txt,logfile3.txt
+file1.txt,file2.txt,./logs/logfile1.txt
+file1.txt,file2.txt,./logs/logfile2.txt
+file1.txt,file2.txt,./logs/logfile3.txt
